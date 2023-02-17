@@ -1,0 +1,57 @@
+body{
+    background-image: url("./Sydney_terminal_platforms.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    text-align: center;
+    height: 100vh;
+}
+
+
+.container {
+    background: black;
+    max-width: 80%;
+    margin: auto;
+    border: 3px solid black;
+    border-radius: 10px;
+
+}
+
+
+h1{
+    color: crimson;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+h2{
+    color: crimson;
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button{
+    border: 1px solid red;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: crimson;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: whitesmoke;
+}
+
+#save-btn {
+    background: whitesmoke;
+}
+
+#save-el{
+    color: whitesmoke;
+}
